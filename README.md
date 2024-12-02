@@ -15,4 +15,6 @@ Stáhněte si všechny Python notebooky z tohoto repozitáře na svůj lokální
 4. Zvolíme import .ipynb file
 5. Nastavíme si schéma LAB a zvolíme warehouse (defaulty by na 99 % měl být OK)
 
+![Pokyny](notebook.png)
+
 Poté začněte s první úlohou dle pokynů v notebooku, pak pokračujte s druhou úlohou.
