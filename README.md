@@ -4,7 +4,16 @@ Python notebooks for Snowflake AI testing
 ## Přihlášení
 Přihlaste se na Snowflake účet dle pokynů sdělených během cvičení. 
 
-URL - doplníme až bude čas ;)
+Přihlaste se na Snowflake účet dle pokynů sdělených během cvičení.
+
+URL - ee03246.ca-central-1.aws.snowflakecomputing.com
+
+Credentials - viz tabulka 
+
+PASSWORD = 'NI-MLP-User-{x}' 
+LOGIN_NAME = 'MLP_USER_{x}'
+
+Kde x je vam pridelene cislo.
 
 ## Úlohy
 Stáhněte si všechny Python notebooky z tohoto repozitáře na svůj lokální počítač. Následně si je nahrajte do svého Snowflake workspacu:
