@@ -6,11 +6,12 @@ Přihlaste se na Snowflake účet dle pokynů sdělených během cvičení.
 
 Přihlaste se na Snowflake účet dle pokynů sdělených během cvičení.
 
-URL - ee03246.ca-central-1.aws.snowflakecomputing.com
+URL - <ee03246.ca-central-1.aws.snowflakecomputing.com>
 
 Credentials - viz tabulka 
 
 PASSWORD = 'NI-MLP-User-{x}' 
+
 LOGIN_NAME = 'MLP_USER_{x}'
 
 Kde x je vam pridelene cislo.
